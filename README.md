@@ -1,2 +1,2 @@
 # Spring-AOP
-To demonstrate the functionalities of AOP in Spring
+To demonstrate the functionalities of Spring MVC, REST, ORM and Transaction management
